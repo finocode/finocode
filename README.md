@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, my name is Kevin.
+
+#I am 20 years old and am currently completing my apprenticeship as an IT specialist at Endress und Hauser GmbH&Co KG
+
+#I am interested in web and app development, where I enjoy designing and implementing user interfaces. 
+
+#I have experience with basic web languages like html,css,javascript,c# etc.
+
+#I have mainly worked with React and Blazor so far
 
 <!--
 **finocode/finocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
